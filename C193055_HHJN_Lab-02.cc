@@ -1,10 +1,3 @@
-/*
- * C193055_HHJN_Lab-02.cc
- *
- *  Created on: Jan 11, 2023
- *      Author: mdsak
- */
-
 #include <string.h>
 #include <omnetpp.h>
 
